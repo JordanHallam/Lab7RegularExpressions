@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionsLab7", "RegularExpressionsLab7\RegularExpressionsLab7.csproj", "{DBEA152D-2726-4963-AB58-F3289B9269FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEA152D-2726-4963-AB58-F3289B9269FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEA152D-2726-4963-AB58-F3289B9269FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEA152D-2726-4963-AB58-F3289B9269FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEA152D-2726-4963-AB58-F3289B9269FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A00898-C75B-404A-AECF-FBF89DA453FF}
+	EndGlobalSection
+EndGlobal

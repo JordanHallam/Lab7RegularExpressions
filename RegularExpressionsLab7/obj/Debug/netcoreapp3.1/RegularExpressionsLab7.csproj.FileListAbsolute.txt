@@ -1,0 +1,13 @@
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.csprojAssemblyReference.cache
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.AssemblyInfoInputs.cache
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.AssemblyInfo.cs
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.csproj.CoreCompileInputs.cache
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.exe
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.deps.json
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.runtimeconfig.json
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.runtimeconfig.dev.json
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.dll
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\bin\Debug\netcoreapp3.1\RegularExpressionsLab7.pdb
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.dll
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.pdb
+C:\Users\jghal\source\repos\RegularExpressionsLab7\RegularExpressionsLab7\obj\Debug\netcoreapp3.1\RegularExpressionsLab7.genruntimeconfig.cache
